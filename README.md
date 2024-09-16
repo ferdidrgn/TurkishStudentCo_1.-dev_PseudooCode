@@ -1,1 +1,1 @@
-# TurkishStudentCo_1.-dev_PseudooCode
+# TurkishStudentCo_1.Ödev_PseudoCode
